@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Vite build output
+dist/
+
+# Optional: system files
+.DS_Store
